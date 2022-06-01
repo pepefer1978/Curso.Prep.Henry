@@ -7,16 +7,16 @@ const nuevaString = "hello";
 const nuevoNum = "1";
 
 // Crea una variable booleana:
-const nuevoBool = null;
+const nuevoBool = "true";
 
 // Resuelve el siguiente problema matemático:
-const nuevaResta = 10 - 5 === 5;
+const nuevaResta = 10 - "5" === 5;
 
 // Resuelve el siguiente problema matemático:
-const nuevaMultiplicacion = 10 * 4 === 40 ;
+const nuevaMultiplicacion = 10 * "4" === 40 ;
 
 // Resuelve el siguiente problema matemático:
-const nuevoModulo = 21 % 5 === 4,2;
+const nuevoModulo = 21 % 5 === "4,2";
 
 
 // En los próximos 22 problemas, deberás completar la función.
